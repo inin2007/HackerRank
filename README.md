@@ -1,6 +1,7 @@
 # Interview Preparation Kit - Java
 
 1. 2D Array - DS
+
 Problem Statement
 
 You are given a 2D array with dimensions 6*6. An hourglass in an array is defined as a portion shaped like this:
