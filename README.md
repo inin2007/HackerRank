@@ -1,4 +1,4 @@
-# Interview Preparation Kit - Java
+# Algorithms
 
 ## Array
 1. 2D Array - DS
@@ -10,5 +10,5 @@ https://github.com/inin2007/Hackerrank/blob/master/2D_Array_DS.java
 1. Bubble Sort
 https://github.com/inin2007/Hackerrank/blob/master/Bubble_Sort.java
 
-## String Manipulation
+## Strings
 1. Making Anagrams
