@@ -1,6 +1,6 @@
 # Algorithms
 
-## Array
+## Arrays
 1. 2D Array - DS
 https://github.com/inin2007/Hackerrank/blob/master/2D_Array_DS.java
 
