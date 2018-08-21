@@ -8,3 +8,4 @@ https://github.com/inin2007/Hackerrank/blob/master/2D_Array_DS.java
 
 ## Sorting
 1. Bubble Sort
+https://github.com/inin2007/Hackerrank/blob/master/Bubble_Sort.java
