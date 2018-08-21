@@ -1,4 +1,4 @@
-# Algorithms
+# Solutions
 
 ## Arrays
 1. 2D Array - DS
